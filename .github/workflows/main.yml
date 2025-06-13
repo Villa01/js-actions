@@ -6,7 +6,7 @@ jobs:
     name: A job to say hello
     steps:
       - name: Erick V - Hello World
-        uses: Villa01/js-actions@v1.2.2
+        uses: Villa01/js-actions@v1.2.3
         with:
           who-to-greet: 'Mona the Octocat'
       - name: Get the output time
